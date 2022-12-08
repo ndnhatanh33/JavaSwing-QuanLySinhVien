@@ -1,0 +1,27 @@
+		     Trường Đại Học Cần Thơ
+		        Bảng Điểm Học Kỳ
+
+Họ và tên: Nguyễn Diệu Mai Chi		Mã số sinh viên: B1        
+Ngày sinh: 15/09/2000
+Email: dieub1@gmail.com
+Số điện thoại: 0147852678
+Địa chỉ: Bạc Liêu
+
+Học Kỳ 1 - Năm Học 2019-2020
+Mã HP		Tên học phần                     	Điểm số	Điểm chữ
+
+CT112   	Mạng máy tính                    	9.0	A
+CT179   	Quản trị hệ thống                	8.5	B+
+CT182   	Ngôn ngữ mô hình hóa             	8.5	B+
+CT188   	Nhập môn lập trình web           	9.1	A
+CT276   	Lập trình JAVA                   	9.5	A
+
+Điểm trung bình: 3.80		 Xếp loại: Xuất sắc
+
+
+Ghi chú 
+Điểm trung bình được phân loại như sau:
+        Loại Xuất sắc	từ 3.6 đến 4.00	Loại Khá	từ 2.5 đến 3.19
+        Loại Giỏi	từ 3.2 đến 3.59	Loại Trung bình	từ 2.0 đến 2.49
+
+                                     Cần Thơ, Ngày 29 Tháng 11 Năm 2021
